@@ -4,7 +4,7 @@
 
 The purpose of developing this game in Assembly was to fully understand the usage of stack memory and processor interrupts.
 In this case, we are using TASM to emulate the Intel 8086 micro-chip.
-This app allows you to play with the mouse, it also has every kind of validations so you cannot break it.
+This game allows you to play with the mouse, it also has every kind of validations so you cannot break it.
 And there was a lot of work put on making it visually pleasing.
 Here are to sites we heavily relied on when making this project: [DOS Interrupts](https://drive.google.com/file/d/1VC6yICbY31eBCWqrkskdBLlfypTTsCIM/view) & [Intel Code Table](https://drive.google.com/file/d/1cZCiEFFAiydObIAo6wJyvnBdnBjdcXZx/view).
 The game was developed as a first year group final project in UNSAM (Universidad Nacional De San Martín).
