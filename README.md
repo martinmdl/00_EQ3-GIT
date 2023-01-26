@@ -7,7 +7,8 @@ In this case, we are using TASM to emulate the Intel 8086 micro-chip.
 This game allows you to play with the mouse, it also has every kind of validations so you cannot break it.
 And we also put a lot of work on making it visually pleasing too.
 Here are two sites we heavily relied on when making this project: [DOS Interrupts](https://drive.google.com/file/d/1VC6yICbY31eBCWqrkskdBLlfypTTsCIM/view) & [Intel Code Table](https://drive.google.com/file/d/1cZCiEFFAiydObIAo6wJyvnBdnBjdcXZx/view).
-The game was developed as a first year group final project in UNSAM (Universidad Nacional De San Martín).
+
+This game was developed as a first year group final project in UNSAM (Universidad Nacional De San Martín).
 If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## 👨‍💻 Authors
