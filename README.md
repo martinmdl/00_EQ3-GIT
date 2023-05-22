@@ -1,4 +1,4 @@
-# UniVenture 1.0
+# UniVenture
 
 ## 📃 Description
 
