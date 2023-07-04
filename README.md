@@ -25,7 +25,7 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 - Download the *rar* file
 - Extract the content in a folder
 - Install *Tasm-1.4-Techapple.net.exe* from *emulator* folder
-- Copy *DEBUG.EXE* and past it in *C:\Tasm 1.4\Tasm*
+- Copy *DEBUG.EXE* and paste it in *C:\Tasm 1.4\Tasm*
 - Copy *storyxs.asm* and *add.asm* from *game* folder
 - Paste both files in *C:\Tasm 1.4\Tasm*
 - Run *DOSBox.exe*
