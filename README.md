@@ -40,6 +40,6 @@ storyxs
 
 ## 🕹️ Demo ([Option Tree](https://drive.google.com/file/d/1jFMO5wIghs6K4XDEGhYLIGpXrGaZZ6Er/view?usp=share_link))
 
-![1.png](https://i.postimg.cc/3Jv0YZnX/1.png)
-![1.png](https://i.postimg.cc/K8hkzgHd/2.png)
-![1.png](https://i.postimg.cc/g2yw629r/3.png)
+<img src="https://i.postimg.cc/3Jv0YZnX/1.png" width="800" />
+<img src="https://i.postimg.cc/K8hkzgHd/2.png" width="800" />
+<img src="https://i.postimg.cc/g2yw629r/3.png" width="800" />
