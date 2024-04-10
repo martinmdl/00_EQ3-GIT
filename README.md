@@ -15,7 +15,7 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 - Cristian Villafañez ([GitHub](https://github.com/KZvilla) - [LinkedIn](https://www.linkedin.com/in/crisvilla93/))
 - Martín De Lojo ([GitHub](https://www.github.com/martinmdl) - [LinkedIn](https://www.linkedin.com/in/martinmdl/))
-- Diego Alegre (GitHub - [LinkedIn](https://www.linkedin.com/in/diego-roman-alegre-3409511a5/)) 
+- Diego Alegre ([GitHub](https://github.com/PipoJR10) - [LinkedIn](https://www.linkedin.com/in/diego-roman-alegre-3409511a5/)) 
 - Valentino Bortolussi ([GitHub](https://github.com/Valentino-afk) - LinkedIn)
 - Matías Di Stefano (GitHub - [LinkedIn](https://www.linkedin.com/in/matias-di-stefano-0ab05b1a4/)) 
 
